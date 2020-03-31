@@ -12,7 +12,7 @@
   <project remote="github" name="openembedded/meta-openembedded" revision="zeus" path="layers/meta-openembedded"/>
 
   <project remote="yocto" name="meta-intel" revision="zeus" path="layers/meta-intel"/>
-  <project remote="yocto" name="meta-java" revision="zeus" path="layers/meta-java"/>
+  <project remote="yocto" name="meta-java" revision="8089e738f40ef630fe34568fe3688ce1d8244d28" path="layers/meta-java"/>
   <project remote="yocto" name="meta-selinux" revision="zeus" path="layers/meta-selinux"/>
   <project remote="yocto" name="meta-virtualization" revision="zeus" path="layers/meta-virtualization"/>
 
