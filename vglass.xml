@@ -27,7 +27,7 @@
   <project remote="github" name="eric-ch/idl" revision="vglass-0" path="openxt/idl"/>
   <project remote="github" name="openxt/installer" path="openxt/installer"/>
   <project remote="github" name="openxt/libxcdbus" path="openxt/libxcdbus"/>
-  <project remote="github" name="openxt/libxenbackend" path="openxt/libxenbackend"/>
+  <project remote="github" name="eric-ch/libxenbackend" path="openxt/libxenbackend" revision="vglass-0"/>
   <project remote="github" name="openxt/linux-xen-argo" path="openxt/linux-xen-argo"/>
   <project remote="github" name="eric-ch/manager" revision="vglass-0" path="openxt/manager"/>
   <project remote="github" name="openxt/network" path="openxt/network"/>
@@ -44,11 +44,11 @@
   <project remote="github" name="openxt/bats-suite" path="openxt/bats-suite"/>
   <project remote="github" name="openxt/xsm-policy" path="openxt/xsm-policy"/>
 
-  <project remote="gitlab" name="ericch/disman" path="openxt/disman" revision="vglass-0"/>
-  <project remote="gitlab" name="ericch/glass" path="openxt/glass" revision="vglass-0"/>
-  <project remote="gitlab" name="ericch/ivc" path="openxt/ivc" revision="vglass-0"/>
-  <project remote="gitlab" name="ericch/openxtfb" path="openxt/openxtfb" revision="vglass-0"/>
-  <project remote="gitlab" name="ericch/pv-display-helper" path="openxt/pv-display-helper" revision="vglass-0"/>
+  <project remote="gitlab" name="ericch/disman" path="openxt/disman" revision="vglass-1"/>
+  <project remote="gitlab" name="ericch/glass" path="openxt/glass" revision="vglass-1"/>
+  <project remote="gitlab" name="ericch/ivc" path="openxt/ivc" revision="vglass-1"/>
+  <project remote="gitlab" name="ericch/openxtfb" path="openxt/openxtfb" revision="vglass-1"/>
+  <project remote="gitlab" name="ericch/pv-display-helper" path="openxt/pv-display-helper" revision="vglass-1"/>
   <project remote="gitlab" name="vglass/xf86-video-openxtfb" path="openxt/xf86-video-openxtfb"/>
 
 </manifest>
