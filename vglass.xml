@@ -49,7 +49,7 @@
   <project remote="gitlab" name="ericch/ivc" path="openxt/ivc" revision="vglass-1"/>
   <project remote="gitlab" name="ericch/openxtfb" path="openxt/openxtfb" revision="vglass-1"/>
   <project remote="gitlab" name="ericch/pv-display-helper" path="openxt/pv-display-helper" revision="vglass-1"/>
-  <project remote="gitlab" name="vglass/xf86-video-openxtfb" path="openxt/xf86-video-openxtfb"/>
+  <project remote="gitlab" name="ericch/xf86-video-openxtfb" path="openxt/xf86-video-openxtfb" revision="vglass-0"/>
 
 </manifest>
 
