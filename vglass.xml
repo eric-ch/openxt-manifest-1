@@ -20,7 +20,7 @@
 
   <project remote="github" name="openxt/meta-openxt-ocaml-platform" path="layers/meta-openxt-ocaml-platform"/>
   <project remote="github" name="openxt/meta-openxt-haskell-platform" path="layers/meta-openxt-haskell-platform"/>
-  <project remote="github" name="eric-ch/xenclient-oe" revision="vglass-5" path="layers/xenclient-oe"/>
+  <project remote="github" name="eric-ch/xenclient-oe" revision="vglass-6" path="layers/xenclient-oe"/>
   <project remote="gitlab" name="vglass/meta-vglass" path="layers/meta-vglass"/>
 
   <project remote="gitlab" name="ericch/meta-vglass-externalsrc" path="layers/meta-vglass-externalsrc"/>
