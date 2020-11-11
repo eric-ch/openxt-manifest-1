@@ -53,6 +53,7 @@
   <project remote="gitlab" name="vglass/openxtfb" path="openxt/openxtfb"/>
   <project remote="gitlab" name="vglass/pv-display-helper" revision="master" path="openxt/pv-display-helper"/>
   <project remote="gitlab" name="vglass/xf86-video-openxtfb" path="openxt/xf86-video-openxtfb"/>
+  <project remote="gitlab" name="vglass/glassdrm" path="openxt/glassdrm"/>
 
 </manifest>
 
