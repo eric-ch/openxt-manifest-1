@@ -25,7 +25,7 @@
 
   <project remote="gitlab" name="ericch/meta-vglass-externalsrc" path="layers/meta-vglass-externalsrc"/>
 
-  <project remote="github" name="eric-ch/bordel" revision="vglass" path="openxt/bordel"/>
+  <project remote="github" name="eric-ch/bordel" revision="vglass-0" path="openxt/bordel"/>
   <project remote="github" name="openxt/icbinn" path="openxt/icbinn"/>
   <project remote="github" name="eric-ch/idl" revision="vglass-1" path="openxt/idl"/>
   <project remote="github" name="openxt/installer" path="openxt/installer"/>
