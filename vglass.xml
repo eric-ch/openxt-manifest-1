@@ -20,12 +20,13 @@
 
   <project remote="github" name="openxt/meta-openxt-ocaml-platform" path="layers/meta-openxt-ocaml-platform"/>
   <project remote="github" name="openxt/meta-openxt-haskell-platform" path="layers/meta-openxt-haskell-platform"/>
-  <project remote="github" name="eric-ch/xenclient-oe" revision="vglass-7" path="layers/xenclient-oe"/>
+  <project remote="github" name="eric-ch/xenclient-oe" revision="vglass-8" path="layers/xenclient-oe"/>
+  <project remote="github" name="eric-ch/meta-openxt-externalsrc" revision="vglass-1" path="layers/meta-openxt-externalsrc"/>
   <project remote="gitlab" name="vglass/meta-vglass" path="layers/meta-vglass"/>
 
   <project remote="gitlab" name="ericch/meta-vglass-externalsrc" path="layers/meta-vglass-externalsrc"/>
 
-  <project remote="github" name="eric-ch/bordel" revision="vglass-0" path="openxt/bordel"/>
+  <project remote="github" name="eric-ch/bordel" revision="vglass" path="openxt/bordel"/>
   <project remote="github" name="openxt/icbinn" path="openxt/icbinn"/>
   <project remote="github" name="eric-ch/idl" revision="vglass-1" path="openxt/idl"/>
   <project remote="github" name="openxt/installer" path="openxt/installer"/>
