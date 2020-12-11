@@ -49,8 +49,8 @@
   <project remote="github" name="openxt/xsm-policy" path="openxt/xsm-policy"/>
 
   <project remote="gitlab" name="vglass/disman" path="openxt/disman"/>
-  <project remote="gitlab" name="vglass/glass" path="openxt/glass"/>
-  <project remote="gitlab" name="vglass/ivc" path="openxt/ivc"/>
+  <project remote="gitlab" name="eric-ch/glass" revision="mr-next" path="openxt/glass"/>
+  <project remote="gitlab" name="ericch/ivc" revision="mr-next" path="openxt/ivc"/>
   <project remote="gitlab" name="vglass/openxtfb" path="openxt/openxtfb"/>
   <project remote="gitlab" name="vglass/pv-display-helper" path="openxt/pv-display-helper"/>
   <project remote="gitlab" name="vglass/xf86-video-openxtfb" path="openxt/xf86-video-openxtfb"/>
