@@ -26,7 +26,7 @@
 
   <project remote="gitlab" name="ericch/meta-vglass-externalsrc" path="layers/meta-vglass-externalsrc"/>
 
-  <project remote="github" name="eric-ch/bordel" revision="next" path="openxt/bordel"/>
+  <project remote="github" name="eric-ch/bordel" revision="vglass" path="openxt/bordel"/>
   <project remote="github" name="openxt/icbinn" path="openxt/icbinn"/>
   <project remote="github" name="eric-ch/idl" revision="vglass" path="openxt/idl"/>
   <project remote="github" name="openxt/installer" path="openxt/installer"/>
@@ -48,11 +48,11 @@
   <project remote="github" name="openxt/bats-suite" path="openxt/bats-suite"/>
   <project remote="github" name="openxt/xsm-policy" path="openxt/xsm-policy"/>
 
-  <project remote="gitlab" name="ericch/disman" path="openxt/disman" revision="next"/>
+  <project remote="gitlab" name="vglass/disman" path="openxt/disman"/>
   <project remote="gitlab" name="ericch/glass" revision="next" path="openxt/glass"/>
-  <project remote="gitlab" name="ericch/ivc" path="openxt/ivc" revision="next"/>
+  <project remote="gitlab" name="vglass/ivc" path="openxt/ivc"/>
   <project remote="gitlab" name="vglass/openxtfb" path="openxt/openxtfb"/>
-  <project remote="gitlab" name="ericch/pv-display-helper" path="openxt/pv-display-helper" revision="next"/>
+  <project remote="gitlab" name="vglass/pv-display-helper" path="openxt/pv-display-helper"/>
   <project remote="gitlab" name="vglass/xf86-video-openxtfb" path="openxt/xf86-video-openxtfb"/>
   <project remote="gitlab" name="vglass/glassdrm" path="openxt/glassdrm"/>
 
